@@ -1,0 +1,2 @@
+Prefix plugins/Tax4Fun2LEfSe/example
+Plugin Tax4Fun2LEfSe inputfile parameters.txt outputfile paths.lefse.txt
